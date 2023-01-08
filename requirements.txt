@@ -1,0 +1,6 @@
+geopandas
+openpyxl
+mamba
+leafmap
+plotly
+streamlit==1.16.0
